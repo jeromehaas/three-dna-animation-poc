@@ -1,0 +1,1 @@
+{"version":3,"sources":["reset.css"],"names":[],"mappings":"AAAA,EAEU,sBAAuB,AAC/B,SAAU,AACV,UAAW,AACX,YAAc,CACf","file":"reset.css","sourcesContent":["* {\n  -webkit-box-sizing: border-box;\n          box-sizing: border-box;\n  margin: 0;\n  padding: 0;\n  outline: none;\n}\n"]}

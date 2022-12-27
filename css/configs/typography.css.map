@@ -1,0 +1,1 @@
+{"version":3,"sources":["typography.css"],"names":[],"mappings":"AAAA,EACE,wBAA6B,CAC9B","file":"typography.css","sourcesContent":["* {\n  font-family: \"Outfit\", serif;\n}\n"]}
